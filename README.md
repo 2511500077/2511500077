@@ -17,24 +17,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🎮 Game Item Manager
-
-A web-based inventory and order management system for managing a game-item reselling business.
-
-**Features:**
-- 📦 Inventory management
-- 🛒 Multi-item orders
-- 📊 Dashboard
-- 📉 Stock management
-- 💰 Sales & profit calculation
-- 🔄 Order status management
-
-**Built with:** Laravel • PHP • MySQL • Bootstrap
-
----
-
 ## 📚 Currently Learning
 
 - Laravel
