@@ -1,8 +1,11 @@
 # Hi, I'm Afdal 👋
 
-🎓 Informatics Engineering Student at **ISB Atma Luhur**  
-💻 Interested in Web Development & Software Engineering  
-🚀 Currently learning **PHP, Laravel, MySQL & JavaScript**
+🎓 Informatics Engineering Student @ ISB Atma Luhur
+💻 Web Developer | 🚀 Software Engineering
+🌱 Learning • Building • Improving
+
+I build web applications, explore new technologies,
+and turn ideas into working projects.
 
 ---
 
@@ -17,21 +20,25 @@
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Focus
 
-- Laravel
-- PHP
-- MySQL
-- JavaScript
-- Git & GitHub
-- Web Development
+🌐 Web Development
+⚙️ Backend Development
+💡 Software Engineering
+📚 Continuous Learning
 
 ---
 
-## 📫 Connect With Me
+## 📍 About Me
 
-📍 Pangkalpinang, Indonesia
+🎓 Student Developer
+🇮🇩 Pangkalpinang, Indonesia
+💻 Turning ideas into code
 
 ---
 
-> *Building, learning, and improving one project at a time.*
+## 🚀 Currently Building
+
+🧩 Projects • 💻 Code • 📚 Knowledge
+
+✨ Learn. Build. Ship. Repeat.
