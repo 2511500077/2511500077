@@ -1,7 +1,7 @@
 # Hi, I'm Afdal 👋
 
-🎓 Informatics Engineering Student @ ISB Atma Luhur
-💻 Web Developer | 🚀 Software Engineering
+🎓 Informatics Engineering Student @ ISB Atma Luhur |
+💻 Web Developer | 🚀 Software Engineering |
 🌱 Learning • Building • Improving
 
 I build web applications, explore new technologies,
